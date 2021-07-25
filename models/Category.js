@@ -7,7 +7,6 @@ class Category extends Model {}
 Category.init(
   {
     // define columns
-    // ***** Re-check type: *****
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -15,7 +14,7 @@ Category.init(
       autoIncrement: true
     },
     category_name: {
-      type: DataTypes.STRING, 
+      type: DataTypes.STRING(50), 
       allowNull: false
     }
   },
