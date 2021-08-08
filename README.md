@@ -13,7 +13,7 @@ Link to walkthrough:
 
 ## Installation 
 1. Clone the repo 
-2. Open terminal at root directory of app (Develop Folder)
+2. Open terminal at root directory of app
 3. Run "npm i" to install necessary dependencies
 
 ## Usage
