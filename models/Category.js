@@ -14,8 +14,11 @@ Category.init(
       autoIncrement: true
     },
     category_name: {
-      type: DataTypes.STRING(50), 
-      allowNull: false
+      type: DataTypes.STRING, 
+      allowNull: false,
+      validdate: {
+        len: [1, 50]
+      }
     }
   },
   {
