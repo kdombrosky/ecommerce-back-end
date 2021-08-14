@@ -16,7 +16,7 @@ Category.init(
     category_name: {
       type: DataTypes.STRING, 
       allowNull: false,
-      validdate: {
+      validate: {
         len: [1, 50]
       }
     }
