@@ -3,7 +3,7 @@
 ## Description 
 This is an app that serves as the back end for an e-commerce website, where users can perform CRUD operations on their products, categories, and product tags.  
 <br/>
-Link to walkthrough: 
+Link to walkthrough: https://drive.google.com/file/d/1dHYCuZmH9lRnQ1tOsWclDD28dXN5-MGC/view
 <br/><br/>
 
 ## Table of Contents 
